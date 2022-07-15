@@ -63,12 +63,12 @@ h2{
 
 }
 @media screen and (max-device-width: 800px) {
-    .body{
+    body{
         background-color: hsl(233, 47%, 7%);
+        font-size= 1vw;
     }
     .text{
         margin: 3.4vw;
-        font-size: 15px;
     }    
     .container{
         position: fixed;
@@ -97,7 +97,19 @@ h2{
         text-align: center;
         left: 26%;
         right: 26%;
-        font-size: 15px;
+    }
+    .stat-heading{
+    color: hsla(0, 0%, 100%, 0.6);
+    font-family: 'inter';
+    font-weight: 400;
+    font-size: 0.6vw;
+    text-transform: uppercase;
+    letter-spacing: 0.3vw;
+    margin-top: none;
+    }
+    .h1,.h2,.h3{
+        position: relative;
+        left:26%;
     }
 }
 .insight{
