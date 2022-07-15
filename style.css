@@ -63,6 +63,10 @@ h2{
 
 }
 @media screen and (max-device-width: 800px) {
+    .body{
+        background-color: hsl(233, 47%, 7%);
+        font-size: 1vw;
+    }
     .text{
         margin: 3.4vw;
     }    
