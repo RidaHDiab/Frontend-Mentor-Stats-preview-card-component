@@ -102,13 +102,18 @@ h2{
     color: hsla(0, 0%, 100%, 0.6);
     font-family: 'inter';
     font-weight: 400;
-    font-size: 0.6vw;
     text-transform: uppercase;
     letter-spacing: 0.3vw;
     margin-top: none;
     }
-    .h1,.h2,.h3{
-        position: relative;
+    .h1{left:26%;}
+    .h2{
+        position:relative;
+        top :60px;
+        left:26%;
+    }
+    .h3{
+        position: absolute;
         left:26%;
     }
 }
