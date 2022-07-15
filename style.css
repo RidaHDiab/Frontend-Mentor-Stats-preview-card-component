@@ -65,10 +65,10 @@ h2{
 @media screen and (max-device-width: 800px) {
     .body{
         background-color: hsl(233, 47%, 7%);
-        font-size: 15px;
     }
     .text{
         margin: 3.4vw;
+        font-size: 15px;
     }    
     .container{
         position: fixed;
@@ -97,6 +97,7 @@ h2{
         text-align: center;
         left: 26%;
         right: 26%;
+        font-size: 15px;
     }
 }
 .insight{
