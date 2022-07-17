@@ -68,7 +68,7 @@ h2{
     }
     .text{
         margin: 3.4vw;
-        font-size= 2vw;
+        font-size= 10vw;
     }    
     .container{
         position: fixed;
@@ -95,7 +95,7 @@ h2{
     }
     .stats{
         text-align: center;
-         font-size: 2vw;
+         font-size: 10vw;
     }
     .stat-heading{
     color: hsla(0, 0%, 100%, 0.6);
@@ -104,20 +104,21 @@ h2{
     text-transform: uppercase;
     letter-spacing: 0.3vw;
     margin-top: none;
-    font-size: 0.6vw;
+    font-size: 3vw;
     }
     .h1{
         position : relative;
-        margin-left: 26%;
+        margin-left: 40%;
     }
     .h2{
-        position : relative;
+        position : absolute;
         margin-top: 30px;
+        left :40%
     }
     .h3{
         position: absolute;
         margin-top:60px;
-        left :26%;
+        left :40%;
     }
 }
 .insight{
