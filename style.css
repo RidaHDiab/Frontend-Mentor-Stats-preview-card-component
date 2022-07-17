@@ -68,7 +68,7 @@ h2{
     }
     .text{
         margin: 3.4vw;
-        font-size= 15px;
+        font-size= 1vw;
     }    
     .container{
         position: fixed;
@@ -95,6 +95,7 @@ h2{
     }
     .stats{
         text-align: center;
+         font-size: 1vw;
     }
     .stat-heading{
     color: hsla(0, 0%, 100%, 0.6);
@@ -103,10 +104,10 @@ h2{
     text-transform: uppercase;
     letter-spacing: 0.3vw;
     margin-top: none;
-    font-size:10px;
+    font-size: 0.6vw;
     }
     .h1{
-        text-align : center;
+        margin-left: 26%;
     }
     .h2{
         position : relative;
