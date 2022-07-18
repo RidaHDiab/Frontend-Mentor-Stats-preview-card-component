@@ -69,11 +69,12 @@ h2{
     .text{
         margin: 3.4vw;
         font-size: 3vw;
+        white-space: 10px;
     }    
     .container{
         position: fixed;
         background-color: hsl(244, 38%, 16%);
-        width: 60em;
+        width: 70em;
         height: 160em;
         top: 10%;
         left: 18%;
