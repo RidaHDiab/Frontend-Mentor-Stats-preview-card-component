@@ -72,7 +72,7 @@ h2{
         line-height: 3vw;
     }    
     p{
-    padding: 20px;
+    padding: 10px;
     color:  hsla(0, 0%, 100%, 0.75);
     font-family: 'Inter';
     font-weight: 400;
@@ -101,7 +101,8 @@ h2{
         color: white;
         font-family: 'Inter';
         font-weight: 700;
-        margin-bottom: 0;
+        margin-bottom: 20px;
+        margin-top: 20px;
     }
     .stats{
         text-align: center;
@@ -114,7 +115,7 @@ h2{
     text-transform: uppercase;
     letter-spacing: 0.3vw;
     margin-top: none;
-    font-size: 2vw;
+    font-size: 2.3vw;
     }
     .h1{
         position : relative;
@@ -123,12 +124,12 @@ h2{
     .h2{
         position : absolute;
         margin-top: 60px;
-        margin-left :40%
+        margin-left :39%
     }
     .h3{
         position: absolute;
-        margin-top:90px;
-        margin-left :40%;
+        margin-top:120px;
+        margin-left :39%;
     }
 }
 .insight{
